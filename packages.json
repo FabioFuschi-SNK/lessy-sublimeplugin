@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "Lessy",
+			"description": "Convert selected LESS to CSS",
+			"author": "Fabio Fuschi",
+			"homepage": "https://github.com/FabioFuschi-SNK",
+			"last_modified": "2015-09-01 19:00:00",
+			"platforms": {
+				"osx": [
+					{
+						"version": "1.0.0",
+						"url": "https://github.com/FabioFuschi-SNK/lessy-sublimeplugin/archive/master.zip"
+					}
+				]
+			}
+		}
+	]
+}
